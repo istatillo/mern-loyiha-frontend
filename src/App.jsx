@@ -121,7 +121,7 @@ function App() {
 
       <div className="row">
         <div className="col-6">
-          <h1>Users</h1>
+          <h1>Foydalanuvchilar</h1>
         </div>
         <div className="col-6 text-end">
           {modalV ? (
