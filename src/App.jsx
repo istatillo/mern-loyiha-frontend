@@ -52,7 +52,7 @@ function App() {
 
   useEffect(() => {
     getUser();
-  }, [users]);
+  }, []);
 
   return (
     <div className="container mt-3">
